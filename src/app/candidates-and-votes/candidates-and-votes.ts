@@ -9,8 +9,8 @@ import '@infragistics/igniteui-webcomponents-grids/grids/combined.js';
 import { VoteResult } from '../models/USElectionsData/vote-result';
 import { Candidate } from '../models/USElectionsData/candidate';
 import { CandidateVoteResult } from '../models/USElectionsData/candidate-vote-result';
-import { StateVoteResult } from '../models/USElectionsData/state-vote-result';
 import { VoteCountResult } from '../models/USElectionsData/vote-count-result';
+import { StateVoteResult } from '../models/USElectionsData/state-vote-result';
 import { stateService } from '../services/State-service';
 import { uSElectionsDataService } from '../services/USElectionsData-service';
 
